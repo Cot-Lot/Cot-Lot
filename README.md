@@ -9,4 +9,4 @@ Cot-Lot/Cot-Lot is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ### © 2022 Cốt.Lốt | fb/hao.minh.33671748
-![HAO Handsome](/presentation.jpg)
+![HAO Handsome](/Presentation.jpg)
